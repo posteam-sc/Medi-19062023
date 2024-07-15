@@ -1,0 +1,6 @@
+﻿namespace POS
+{
+    class Long
+    {
+    }
+}
